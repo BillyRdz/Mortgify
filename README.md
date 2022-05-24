@@ -2,7 +2,7 @@
 
 Mortgify is an all-cost considered finance tool to aid with visual representation of the cost breakdown for a mortgage.
 
-**Link to project:** https://billyrdz.github.io/Mortgify/
+**Link to project:** https://billyrdz.github.io/Mortgify
 
 ![alt tag](https://billyrdz.com/wp-content/uploads/2022/05/mortgify.gif)
 
@@ -32,4 +32,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page
 
-**JavaScript Social Splash:** https://github.com/BillyRdz/Javascript-Social-Splash
+**Marleylilly Promotional Email:** https://github.com/BillyRdz/marleylilly-promotional-email

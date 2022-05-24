@@ -8,18 +8,21 @@ Mortgify is an all-cost considered finance tool to aid with visual representatio
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Chart.js
+**Tech used:**
 
-Working with forms and inputs to capture client information.
-Render values by intergrating Chart.js
-Managing state in an object and updating the values when a user makes adjustments to the values.
+- HTML
+- CSS
+- JavaScript
+- Chart.js
+
+Working with forms and inputs to capture client information. Render values by intergrating Chart.js Managing state in an object and updating the values when a user makes adjustments to the values.
 
 ## Lessons Learned:
 
-How to set the state, monitor the state, and update with every change.
-How to create a reactive chart.
-Implement event listeners to update the state.
-How to Loop through values in order to update displayed data in real-time
+- How to set the state, monitor the state, and update with every change.
+- How to create a reactive chart.
+- Implement event listeners to update the state.
+- How to Loop through values in order to update displayed data in real-time
 
 ## Examples:
 

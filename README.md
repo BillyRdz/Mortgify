@@ -8,9 +8,11 @@ Mortgify is an all-cost considered finance tool to aid with visual representatio
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, and JavaScript
+**Tech used:** HTML, CSS, JavaScript, Chart.js
 
-Managing state in an object and updating the values when a user makes adjustment.
+Working with forms and inputs to capture client information.
+Render values by intergrating Chart.js
+Managing state in an object and updating the values when a user makes adjustments to the values.
 
 ## Lessons Learned:
 
